@@ -7,3 +7,11 @@ b)Construa um dashboard com três visualizações diferentes, correspondente aos
 c)Suba para o seu Github o arquivo gerado
 d)Tire um print do dashboard  que você gerou  e poste-o aqui.
 ## 💻 Tecnologias Utilizadas
+> Microsoft Power Bi
+
+ > Execel
+
+ > GitHub
+
+
+
