@@ -6,3 +6,4 @@ a)Obtenha um conjunto de dados de sua escolha.
 b)Construa um dashboard com três visualizações diferentes, correspondente aos dados coletados. 
 c)Suba para o seu Github o arquivo gerado
 d)Tire um print do dashboard  que você gerou  e poste-o aqui.
+## 💻 Tecnologias Utilizadas
